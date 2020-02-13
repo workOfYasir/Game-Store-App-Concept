@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DesignOne</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="img_frag">Image fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fltr_frag">Filter fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="slide_frag">slide fragment</string>
+</resources>
